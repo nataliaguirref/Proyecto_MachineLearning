@@ -7,8 +7,8 @@ Los programas de reclutamiento tienen como objetivo atraer vendedores al negocio
 El negocio sobre el cual se realizará el análisis esta dedicado a la venta directa, dentro del año hay 17 catálogos en los cuales siempre se espera reclutamiento pero no en todos hay un programa con incentivos, por lo tanto se evaluarán las dos situaciones.
 
 ### Contenido
- 
 
  
 ### Bases de Datos  
 
+https://drive.google.com/file/d/173c2BaMb92wcOycSG4JA0yrcEj6olur2/view?usp=sharing

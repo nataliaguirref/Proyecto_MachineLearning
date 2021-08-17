@@ -8,7 +8,7 @@ El negocio sobre el cual se realizará el análisis esta dedicado a la venta dir
 
 ### Contenido
 
--  [Análisis de Reclutados](Análisis de Reclutados/Readme.md) 
+-  [Análisis de Reclutados](AnalisisReclutados/Readme.md) 
 -  [Análisis de Clasificadores](Análisis Clasificadores/Readme.md)
 -  [Conclusiones](Conclusiones/Readme.md)
 

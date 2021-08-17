@@ -14,6 +14,3 @@ El negocio sobre el cual se realizará el análisis esta dedicado a la venta dir
 
 https://drive.google.com/file/d/173c2BaMb92wcOycSG4JA0yrcEj6olur2/view?usp=sharing
 
-[Siguiente](Análisis de Reclutados/Readme.md)
-
-</div>

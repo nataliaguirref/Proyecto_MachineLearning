@@ -1,4 +1,4 @@
-##Conclusiones
+## Conclusiones
 
 - Se separararon los datos en dos conjuntos, donde hubiera programa de reclutamiento y donde no para alcanzar una mayor correlación entre los datos
 

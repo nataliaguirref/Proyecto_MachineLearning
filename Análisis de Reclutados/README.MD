@@ -1,3 +1,0 @@
-## Descripción de variables
-
-

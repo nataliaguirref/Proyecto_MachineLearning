@@ -8,7 +8,7 @@ El negocio sobre el cual se realizará el análisis esta dedicado a la venta dir
 
 ### Contenido
 
-- [Análisis](Análisis de Reclutados/Readme.md)
+-  [Sesión 1: Fundamentos de SQL](Sesion-01/Readme.md) 
 
 ### Bases de Datos  
 
